@@ -1,2 +1,2 @@
 # Data-Science-Methods-Course
-My homework for the coursework
+Part of My Personal coursework
